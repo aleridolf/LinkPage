@@ -8,7 +8,7 @@
 }
 
 body{
-    background: -webkit-gradient(linear, left bottom, left top, from(#002fff), to(#0077ff)) fixed;
+    background: -webkit-gradient(linear, left bottom, left top, from(#000000), to(#333434)) fixed;
 }
 
 .center{
@@ -74,7 +74,7 @@ section.box1{
 
 .link .link-a:hover{
     background: white;
-    color: #0077ff;
+    color: #000000;
 }
 
 .link .link-a{
